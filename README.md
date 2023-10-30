@@ -1,5 +1,3 @@
-<h1>Mastodon/Misskey Share</h1>
-
 Mastodon/Misskey ShareはMastodon,Misskey用のシェア機能を提供するサイトです。
 
 簡単にブログ記事などにMastodon、Misskeyで記事をシェアするボタン・リンクを組み込むことができます。
