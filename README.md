@@ -8,7 +8,7 @@ Mastodon/Misskey ShareはMastodon,Misskey用のシェア機能を提供するサ
 ```
 https://ms.korange.work/?text=（投稿するテキスト）
 ```
-へのリンクを張るだけです、
+へのリンクを張るだけです。
 
 ## ◆ ボタンの埋め込み方
 #### 🐘 Mastodon の場合
