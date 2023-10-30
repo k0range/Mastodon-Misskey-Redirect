@@ -22,6 +22,6 @@ https://ms.korange.work/?text=（投稿するテキスト）
 ```
 <a href="https://ms.korange.work/?text=（投稿するテキスト）"><img src="https://media.korange.work/misskey-share.svg"></a>
 ```
-----
+---
 <a href="https://ms.korange.work/?text=https%3A%2F%2Fmshare.korange.work%2F"><img src="https://media.korange.work/misskey-share.svg" height=32></a> 
 <a href="https://ms.korange.work/?text=https%3A%2F%2Fmshare.korange.work%2F"><img src="https://media.korange.work/mastodon-share.svg" height=32></a>
