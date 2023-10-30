@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-body > header > a{
-  display: none;
+.btn{
+  display: none !important;
 }
