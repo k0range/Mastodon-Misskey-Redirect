@@ -4,13 +4,13 @@ Mastodon/Misskey ShareはMastodon,Misskey用のシェア機能を提供するサ
 
 [ここで試せます](https://ms.korange.work/?text=こんにちは。#MastodonMisskeyShare)
 
-## 使い方
+## ◆ 使い方
 ```
 https://ms.korange.work/?text=（投稿するテキスト）
 ```
 へのリンクを張るだけです、
 
-## ボタンの埋め込み方
+## ◆ ボタンの埋め込み方
 #### 🐘 Mastodon の場合
 このHTMLコードを使ってください。
 ```
